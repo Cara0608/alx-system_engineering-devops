@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-#This script is to print Best school 10 times
-for Best School; do print("Best School/n", *10); done
