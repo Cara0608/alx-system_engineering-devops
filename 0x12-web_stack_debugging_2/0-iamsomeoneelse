@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+# Runs the whoami command under the user passed ad argument.
+sudo -u "$1" whoami
